@@ -1,0 +1,1 @@
+{"name":"internship-board-server","type":"commonjs","scripts":{"start":"node index.js","test":"vitest run"},"dependencies":{"express":"^4.19.2","helmet":"^7.1.0","cors":"^2.8.5","express-rate-limit":"^7.4.0","validator":"^13.12.0"},"devDependencies":{"vitest":"^2.0.0","supertest":"^7.0.0"}}
